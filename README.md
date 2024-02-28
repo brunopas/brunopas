@@ -1,6 +1,7 @@
 Hello, I'm Bruno, based in Brazil!
 ---
 Currently a Software Engineer | PHP Developer at Globant, with a freelance journey in software development since 2009.
+
 I see technology as a powerful problem solver, constantly learning to contribute to individuals and organizations.
 
 Educational Background:
