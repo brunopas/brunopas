@@ -1,10 +1,17 @@
-Hey there! My name is Bruno and I live in Brazil!
+Hello, I'm Bruno, based in Brazil!
 ---
+Currently a Software Engineer | PHP Developer at Globant, with a freelance journey in software development since 2009.
+I see technology as a powerful problem solver, constantly learning to contribute to individuals and organizations.
 
-Currently, working at Globant as Software Engineer | PHP Developer. Building software as a freelancer since 2009.
-For me, technology is a big problem solver, that's why I love learning new stuff to help people.
+Educational Background:
+- Graduated in Information Systems (2009), Database (2013).
+- Specialist in Digital Marketing (2017).
 
-Some info about me:
-- Graduated in Information Systems (2009), Database (2013), and Specialist in Digital Marketing (2017).
-- Experienced in PHP, Laravel, CodeIgniter, JavaScript, NodeJS, VueJS, jQuery, HTML, CSS, Bootstrap, Tailwind CSS, PHPUnit, Docker, MySQL, PostgreSQL, SQL Server, Oracle, SQLite, MongoDB, and Git.
-- Also experienced as a business analyst for Information Technology and Business Process Management (BPM) projects.
+Skills:
+- Proficient in PHP, Laravel, CodeIgniter, JavaScript, NodeJS, VueJS, jQuery, HTML, CSS, Bootstrap, Tailwind CSS, PHPUnit, Docker.
+- Extensive experience with databases: MySQL, PostgreSQL, SQL Server, Oracle, SQLite, MongoDB.
+- Well-versed in version control with Git.
+
+Additionally, I've served as a business analyst for Information Technology and Business Process Management (BPM) projects.
+
+Let's connect and explore opportunities!
